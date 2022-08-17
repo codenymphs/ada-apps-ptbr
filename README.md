@@ -3,7 +3,7 @@ A programação com Ada fornece uma aprendizagem fluida e consistente em orienta
 
 ~~~ada
 WITH Text_io; 
-USE Text_io;
+USE  Text_io;
 
 PROCEDURE ada_playground IS
 BEGIN
