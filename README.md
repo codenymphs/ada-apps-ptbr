@@ -11,8 +11,8 @@ BEGIN
 END Playground;
 ~~~
 
-* Digite o codigo no terminal `gnatmake ada_playground.adb` para criar o programa
-* Execute o codigo no terminal `./ada_playground.adb` para ver o resultado
+* Digite o codigo no terminal `gnatmake playground.adb` para criar o programa
+* Execute o codigo no terminal `./playground.adb` para ver o resultado
 
 # Desfrute de todo o conteudo do guia
 | Pratique o _**Guia**_              |  
