@@ -3,12 +3,12 @@ A programação com Ada fornece uma aprendizagem fluida e consistente em orienta
 
 ~~~ada
 WITH Text_io; 
-USE  Text_io;
+USE Text_io;
 
-PROCEDURE ada_playground IS
+PROCEDURE Playground IS
 BEGIN
-        Put_Line("Ola, Mundo!");
-END ada_playground;
+        Put_Line("Ada Said: Hello, World!");
+END Playground;
 ~~~
 
 * Digite o codigo no terminal `gnatmake ada_playground.adb` para criar o programa
